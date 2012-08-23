@@ -1,0 +1,18 @@
+{
+	"auto_upgrade_last_run": 1345702136,
+	"installed_packages":
+	[
+		"Gist",
+		"Jinja2",
+		"jQuery",
+		"Package Control",
+		"Sublime-HTMLPrettify"
+	],
+	"repositories":
+	[
+		"https://bitbucket.org/sublimator/sublime-2-zencoding",
+		"http://bitbucket.org/sublimator/webdevelopment/wiki/Home",
+		"https://github.com/dzhibas/SublimePrettyJson",
+		"https://github.com/tomasztunik/Sublime-Text-2-Backbone.js-package"
+	]
+}
