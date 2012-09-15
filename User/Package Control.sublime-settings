@@ -1,10 +1,11 @@
 {
-	"auto_upgrade_last_run": 1346174570,
+	"auto_upgrade_last_run": 1347607913,
 	"installed_packages":
 	[
 		"Gist",
 		"Jinja2",
 		"jQuery",
+		"JSLint",
 		"Package Control",
 		"Sublime-HTMLPrettify"
 	],

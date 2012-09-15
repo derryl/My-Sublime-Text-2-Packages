@@ -598,8 +598,9 @@ zen_settings = {
 			'meta:win': '<meta http-equiv="Content-Type" content="text/html;charset=Win-1251" />',
 			'meta:compat': '<meta http-equiv="X-UA-Compatible" content="IE=7" />',
 			'style': '<style type="text/css"></style>',
-			'script': '<script type="text/javascript"></script>',
-			'script:src': '<script type="text/javascript" src=""></script>',
+			'script': '<script type="text/javascript">|</script>',
+			'tmpl': '<script type="text/html" id="|"></script>',
+			'scripts': '<script type="text/javascript" src="|"></script>',
 			# begin custom -->
 			'less': '<script src="https://raw.github.com/cloudhead/less.js/master/dist/less-1.3.0.min.js"></script>',
 			'weinre': '<script type="text/javascript" src="http://localhost:8080/target/target-script-min.js#anonymous"></script>',

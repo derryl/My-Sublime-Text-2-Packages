@@ -4,6 +4,7 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"jQuery"
+		"jQuery",
+		"JSLint"
 	]
 }
