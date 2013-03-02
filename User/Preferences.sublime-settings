@@ -3,8 +3,9 @@
 	"font_size": 14.0,
 	"ignored_packages":
 	[
-		"Vintage",
 		"jQuery",
+		"Vintage",
 		"JSLint"
-	]
+	],
+	"theme": "Soda Dark.sublime-theme"
 }

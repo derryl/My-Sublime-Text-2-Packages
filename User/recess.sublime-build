@@ -1,0 +1,6 @@
+{
+    "cmd": ["recess", "--stripColors", "$file"],
+    // "shell" : true,
+    "path": "/usr/local/bin",
+    "selector": "source.css.less"
+}

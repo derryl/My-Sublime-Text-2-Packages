@@ -1,0 +1,7 @@
+{
+    "cmd": ["lessc", "-x", "$file", "$file_path/$file_base_name.css", "--verbose"],
+    // "cmd": ["echo", "-x", "$file", "$file_path/$file_base_name.css", "--verbose"],
+    // "shell" : true,
+    "path": "/usr/local/bin",
+    "selector": "source.css.less"
+}

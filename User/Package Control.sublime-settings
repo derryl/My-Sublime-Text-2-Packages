@@ -1,14 +1,16 @@
 {
-	"auto_upgrade_last_run": 1352180310,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"CSSTidy",
 		"Gist",
 		"Jinja2",
 		"jQuery",
 		"JSLint",
 		"JsRun",
 		"Package Control",
-		"Sublime-HTMLPrettify"
+		"Sublime-HTMLPrettify",
+		"Theme - Soda"
 	],
 	"repositories":
 	[
